@@ -2,4 +2,4 @@
 Simple JavaScript projects
 
 
-[Project Link](https://akin-elmas.github.io/todo-ui/)
+[To-Do Link](https://akin-elmas.github.io/todo-ui/)
